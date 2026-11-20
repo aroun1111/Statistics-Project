@@ -1,0 +1,25 @@
+,value
+UDS rows,1237.0
+MRI rows,1237.0
+UDS unique IDs,1237.0
+MRI unique IDs,1237.0
+UDS-only IDs,0.0
+MRI-only IDs,0.0
+joined rows before eligibility,1237.0
+analysis N,1237.0
+LH median threshold,3.021
+A count,437.0
+B count,615.0
+A and B count,284.0
+P(A),0.3532740501212611
+P(B),0.4971705739692805
+P(A and B),0.22958771220695232
+P(A)P(B),0.17563746226723975
+P(A | B),0.46178861788617886
+P(A | not B),0.2459807073954984
+P(B | A),0.6498855835240275
+"Cov(LH,CDRSUM)",-0.17747678622426682
+"Cov(RH,CDRSUM)",-0.18015005107279
+LH paired N,1237.0
+RH paired N,1237.0
+P(binomial >= 4),0.4950557914462811
